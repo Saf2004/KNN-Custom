@@ -49,7 +49,3 @@ The script prints out the accuracy scores of KNN classifiers with different conf
 ### License:
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-### Author:
-[Your Name]
-
-For any questions or feedback, please contact [Your Email Address].
